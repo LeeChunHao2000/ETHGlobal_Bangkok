@@ -7,3 +7,6 @@
 [submodule "lib/LayerZero-v2"]
 	path = lib/LayerZero-v2
 	url = https://github.com/LayerZero-Labs/LayerZero-v2
+[submodule "lib/extended-optimism-mintable-token"]
+	path = lib/extended-optimism-mintable-token
+	url = https://github.com/coinbase/extended-optimism-mintable-token
