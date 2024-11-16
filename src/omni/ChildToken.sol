@@ -3,6 +3,10 @@ pragma solidity ^0.8.0;
 
 import "@chainlink/contracts/src/v0.8/shared/token/ERC677/OpStackBurnMintERC677.sol";
 
+/**
+ * @title Token Contract on Layer 2 or target chain
+ */
+
 contract ChildToken is OpStackBurnMintERC677 {
     constructor(
         string memory name,
