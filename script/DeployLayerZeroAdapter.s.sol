@@ -15,12 +15,11 @@ contract DeployLayerZeroAdapter is Script {
         vm.startBroadcast(deployerPrivateKey);
 
         LayerZeroAdapter l0Adapter = new LayerZeroAdapter(
-            IBridgeToken(address(0x4eb3F1cd51Eae182A4579C69e64B9017eD7d7F6b)),
+            IBridgeToken(address(0x2A94ce5d0EFC10ed48b3f5C2cA9b418cc9b17372)),
             address(0x6EDCE65403992e310A62460808c4b910D972f10f),
             defaultAdmin
         );
 
         vm.stopBroadcast();
- 
     }
 }

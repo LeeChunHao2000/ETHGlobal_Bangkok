@@ -58,7 +58,8 @@ const LayerZeroDVNs = {
 const oappAddresses = {
   omnitoken: {
     testnet: {
-      sepolia: '0x00'
+      sepolia: '0x91E1D761264c221D7b1D7404aB48233Dedf1f171',
+      scrollSep: '0x1eab0a076c5d5a76143ac4be10415f8ad160bc24'
     }
   }
 };
