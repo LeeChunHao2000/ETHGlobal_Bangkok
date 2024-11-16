@@ -66,3 +66,7 @@ receive [
   ]
 ]
 ```
+
+# bridge
+https://testnet.axelarscan.io/gmp/0x4913b9457106e03fd8064aa833a11ecae019253c27918c15e931564dfc6acae9
+
